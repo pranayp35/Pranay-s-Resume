@@ -1,4 +1,9 @@
 # Pranay-s-Resume
+## Email 
+pranayprasoon35@gmail.com
+
+## Mobile No
+9939785170
 
 ## Education
 Master's of Computer Applications (MCA) Sikkim Manipal University, Gangtok, Sikkim Currently pursuing 2024-2026
@@ -26,3 +31,10 @@ Listening Music
 
 ## CAREER OBJECTIVE
 Looking for a career opportunity and challenging environment to work a well-recognized organization, which helps to me, explore and improve my skills, enhance my knowledge towards individual approach simultaneously contributing to the betterment of organization.
+
+## SOCIAL LINKS:
+https://www.linkedin.com/in/pranayprasoon35/
+
+https://github.com/pranayp35
+
+https://leetcode.com/pranayprasoon35/
