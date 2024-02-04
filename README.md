@@ -1,7 +1,7 @@
-# Pranay-s-Resume
+# Pranay's Resume
+
 ## Contact
 Email    : pranayprasoon35@gmail.com
-
 Mobile No: 9939785170
 
 ## Education
@@ -29,7 +29,8 @@ Quick learning,
 
 ## HOBBIES
 Reading Books, 
-Listening Music
+Listening Music,
+Painting
 
 ## CAREER OBJECTIVE
 Looking for a career opportunity and challenging environment to work a well-recognized organization, which helps to me, explore and improve my skills, enhance my knowledge towards individual approach simultaneously contributing to the betterment of organization.
