@@ -1,24 +1,25 @@
 # Pranay-s-Resume
 ## Contact
 Email    : pranayprasoon35@gmail.com
+
 Mobile No: 9939785170
 
 ## Education
 Master's of Computer Applications (MCA) Sikkim Manipal University, Gangtok, Sikkim 
-Currently pursuing 2024-2026
+-- Currently pursuing 2024-2026
 
 Bachelor's of Computer Applications (BCA) C M College Darbhanga Bihar 
-8.04 CGPA 2020-2023
+-- 8.04 CGPA 2020-2023
 
 Higer Secondary Woodbine Modern School Allalpatti Darbhanga 
-46% 2020
+-- 46% 2020
 
 ## Skills
 Programming: C, C++, Core Java, Python, HTML, CSS, JavaScript
 
-Database Management: MYSQL,MS SQL SERVER, ORACLE
+Database Management: MYSQL, ORACLE
 
-Operating Systems: WINDOWS 7,8,10,11, SERVER 2016, LINUX OS – KALI LINUX, LINUX MINT
+Operating Systems: WINDOWS, LINUX OS 
 
 ## STRENGTHS
 Good communication skills, 
